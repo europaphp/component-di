@@ -1,5 +1,5 @@
 {
-  "name": "europaphp/di",
+  "name": "europaphp/component-di",
   "description": "EuropaPHP dependency injection component.",
   "keywords": ["mvc", "view", "controller", "fast", "scalable", "simple", "module", "modular"],
   "license": "MIT",
