@@ -1,0 +1,4 @@
+di
+==
+
+Dependency injection component.
